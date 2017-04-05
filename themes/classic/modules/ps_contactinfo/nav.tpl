@@ -36,7 +36,7 @@
         d='Shop.Theme'
       }
     {else}
-      <a href="{$urls.pages.contact}">{l s='Contact us' d='Shop.Theme'}</a>
+      <a href="{$urls.pages.contact}">{l s='Contactez nous, nous sommes les plus forts!' d='Shop.Theme'}</a>
     {/if}
   </div>
 </div>
