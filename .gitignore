@@ -1,0 +1,7 @@
+.DS_Store
+_install_
+app/config/parameters.php
+app/config/parameters.yml
+app/config/parameters.yml.dist
+
+
